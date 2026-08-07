@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 Currently building Java and Web Development projects  <br>🌱 Learning Data Structures, Software Development & new technologies  <br>💻 Interested in creating efficient and user-friendly applications  <br>🤝 Open to collaborating on coding projects and open-source ideas  <br>💬 Ask me about Java, C, HTML, CSS & python  <br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/deviya-harsinghani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyaharsinghani123@gmail.com) 
 
